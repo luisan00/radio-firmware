@@ -1,7 +1,0 @@
-# Copyright (C) 2020 Locha Inc
-
-menu "System"
-
-rsource "net/Kconfig"
-
-endmenu

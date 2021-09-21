@@ -2,6 +2,6 @@
 
 menu "Turpial - Radio Firmware Configuration"
 
-rsource "sys/Kconfig"
+# rsource "sys/Kconfig"
 
 endmenu

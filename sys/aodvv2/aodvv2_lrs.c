@@ -19,8 +19,8 @@
  * @author      Jean Pierre Dudey <jeandudey@hotmail.com>
  */
 
-#include "net/aodvv2/aodvv2.h"
-#include "net/aodvv2/lrs.h"
+#include "aodvv2.h"
+#include "aodvv2/lrs.h"
 
 #define ENABLE_DEBUG (0)
 #include "debug.h"

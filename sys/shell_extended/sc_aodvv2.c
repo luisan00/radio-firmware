@@ -28,7 +28,7 @@
 
 #include <stdio.h>
 
-#include "net/aodvv2/rcs.h"
+#include "aodvv2/rcs.h"
 
 /** Default prefix length if not specified */
 #define _IPV6_DEFAULT_PREFIX_LEN (64U)

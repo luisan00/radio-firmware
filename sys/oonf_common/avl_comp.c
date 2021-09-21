@@ -42,8 +42,8 @@
 #include <string.h>
 #include <strings.h>
 
-#include "common/avl_comp.h"
-#include "common/netaddr.h"
+#include "oonf_common/avl_comp.h"
+#include "oonf_common/netaddr.h"
 
 /**
  * AVL tree comparator for unsigned 32 bit integers

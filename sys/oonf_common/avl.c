@@ -43,8 +43,8 @@
 #include <time.h>
 #include <string.h>
 
-#include "common/list.h"
-#include "common/avl.h"
+#include "oonf_common/list.h"
+#include "oonf_common/avl.h"
 
 static struct avl_node *_avl_find_rec(struct avl_node *node,
     const void *key, avl_tree_comp comp, int *cmp_result);

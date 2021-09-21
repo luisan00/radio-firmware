@@ -31,9 +31,12 @@ USEMODULE += gnrc_icmpv6_echo
 USEMODULE += gnrc_udp
 USEMODULE += gnrc_pktdump
 
+# External modules
 USEMODULE += manet
 USEMODULE += aodvv2
+USEMODULE += vaina
 USEMODULE += shell_extended
+
 
 USEMODULE += shell
 USEMODULE += shell_commands
@@ -41,7 +44,7 @@ USEMODULE += ps
 USEMODULE += netstats_l2
 USEMODULE += netstats_ipv6
 
-USEMODULE += vaina
+
 
 USEMODULE += posix_inet
 

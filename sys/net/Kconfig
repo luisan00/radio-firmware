@@ -1,8 +1,0 @@
-# Copyright (C) 2020 Locha Inc
-
-menu "Network"
-
-rsource "aodvv2/Kconfig"
-rsource "vaina/Kconfig"
-
-endmenu

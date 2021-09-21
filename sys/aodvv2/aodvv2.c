@@ -21,12 +21,12 @@
  * @}
  */
 
-#include "net/aodvv2/rfc5444.h"
-#include "net/aodvv2/lrs.h"
-#include "net/aodvv2/mcmsg.h"
-#include "net/aodvv2/metric.h"
-#include "net/aodvv2/rcs.h"
-#include "net/aodvv2/seqnum.h"
+#include "aodvv2/rfc5444.h"
+#include "aodvv2/lrs.h"
+#include "aodvv2/mcmsg.h"
+#include "aodvv2/metric.h"
+#include "aodvv2/rcs.h"
+#include "aodvv2/seqnum.h"
 
 #include "net/gnrc/ipv6.h"
 #include "net/gnrc/udp.h"

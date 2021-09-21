@@ -23,9 +23,9 @@
 
 #include <string.h>
 
-#include "net/aodvv2/aodvv2.h"
-#include "net/aodvv2/rfc5444.h"
-#include "net/aodvv2/seqnum.h"
+#include "aodvv2.h"
+#include "aodvv2/rfc5444.h"
+#include "aodvv2/seqnum.h"
 #include "net/metric.h"
 
 #include "timex.h"

@@ -23,7 +23,7 @@
 #ifndef NET_AODVV2_AODVV2_H
 #define NET_AODVV2_AODVV2_H
 
-#include "net/aodvv2/rfc5444.h"
+#include "aodvv2/rfc5444.h"
 #include "net/ipv6/addr.h"
 #include "net/gnrc.h"
 

@@ -21,7 +21,7 @@
  * @}
  */
 
-#include "net/aodvv2/metric.h"
+#include "aodvv2/metric.h"
 
 #include <assert.h>
 

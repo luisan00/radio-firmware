@@ -17,13 +17,13 @@
  * @}
  */
 
-#include "net/vaina.h"
+#include "vaina.h"
 
 #include "net/sock/udp.h"
 #include "net/gnrc/ipv6/nib/ft.h"
 
 #if IS_USED(MODULE_AODVV2)
-#include "net/aodvv2/rcs.h"
+#include "aodvv2/rcs.h"
 #endif
 
 #define ENABLE_DEBUG (0)

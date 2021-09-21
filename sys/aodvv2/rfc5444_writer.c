@@ -21,8 +21,8 @@
  * @}
  */
 
-#include "net/aodvv2/rfc5444.h"
-#include "net/aodvv2/metric.h"
+#include "aodvv2/rfc5444.h"
+#include "aodvv2/metric.h"
 
 #define ENABLE_DEBUG (0)
 #include "debug.h"

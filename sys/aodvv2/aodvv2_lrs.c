@@ -20,7 +20,7 @@
  */
 
 #include "aodvv2.h"
-#include "aodvv2/lrs.h"
+#include "lrs.h"
 
 #define ENABLE_DEBUG (0)
 #include "debug.h"

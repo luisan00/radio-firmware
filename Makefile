@@ -22,7 +22,7 @@ QUIET ?= 1
 EXTERNAL_MODULE_DIRS += sys
 
 # Initialize GNRC netif
-USEMODULE += gnrc_netdev_default
+USEMODULE += netdev_default
 USEMODULE += auto_init_gnrc_netif
 
 USEMODULE += gnrc_ipv6_router

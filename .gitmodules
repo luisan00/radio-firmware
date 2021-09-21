@@ -1,4 +1,4 @@
 [submodule "RIOT"]
 	path = RIOT
-	url = https://github.com/btcven/RIOT.git
-	branch = 2020_02_04-cc13xx-driver
+	url = https://github.com/Mesh4all/RIOT.git
+	branch = master
